@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+    printf("测试分支冲突")； 
+   return 0；
+}
